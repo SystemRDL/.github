@@ -26,10 +26,9 @@ a documented API you can use to integrate it into your own custom workflow.
 * [PeakRDL-html](https://github.com/SystemRDL/PeakRDL-html/blob/main/README.md) produces intuitive and dynamic HTML documentation.
 * [PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm/blob/main/README.md) generates a UVM register model.
 * [PeakRDL-ipxact](https://peakrdl-ipxact.readthedocs.io) lets you import and export IP-XACT XML.
-* [PeakRDL-Markdown](https://peakrdl-markdown.readthedocs.io) export to a Markdown document.
 * [PeakRDL-cheader](https://peakrdl-cheader.readthedocs.io) outputs a software abstraction layer C header.
 
-Be sure to also check out the growing list of tools [others in the community](community_plugins.md) have made.
+Be sure to also check out the growing list of tools [others in the community](https://peakrdl.readthedocs.io/en/latest/community.html) have made.
 
 ## SystemRDL language front-end compiler
 Need to build something custom? Don't [invent your own](https://xkcd.com/927/)
