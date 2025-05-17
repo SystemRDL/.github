@@ -23,6 +23,7 @@ individually. Each component is installable as a separate Python package and has
 a documented API you can use to integrate it into your own custom workflow.
 
 * [PeakRDL-regblock](https://peakrdl-regblock.readthedocs.io) generates synthesizable SystemVerilog RTL.
+* [PeakRDL-regblock-vhdl](https://peakrdl-regblock-vhdl.readthedocs.io) generates synthesizable VHDL RTL.
 * [PeakRDL-html](https://github.com/SystemRDL/PeakRDL-html/blob/main/README.md) produces intuitive and dynamic HTML documentation.
 * [PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm/blob/main/README.md) generates a UVM register model.
 * [PeakRDL-ipxact](https://peakrdl-ipxact.readthedocs.io) lets you import and export IP-XACT XML.
