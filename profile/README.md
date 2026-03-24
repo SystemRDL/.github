@@ -42,12 +42,18 @@ See the [SystemRDL Compiler Documentation](http://systemrdl-compiler.readthedocs
 for more details.
 
 
-## How do I use my proprietary register specs with PeakRDL?
-If you are just ramping up the use of SystemRDL and still need to support other
-internal register spec formats, it is pretty easy to create an importer to help
-transition your workflow from non-SystemRDL spec formats.
+## Our register specs are described in a proprietary format. How can I start using them with PeakRDL?
+If you are just starting to migrate to SystemRDL and still need to support other
+internal register description formats, it is pretty easy to create an importer to help
+transition your workflow from non-SystemRDL description formats.
 
 To learn how this works, check out [the tutorial on PeakRDL importer plugins](https://peakrdl.readthedocs.io/en/latest/for-devs/importer-plugin.html).
 
+Once you build an importer, you can use the [PeakRDL-systemrdl](https://github.com/SystemRDL/PeakRDL-systemrdl)
+tool to convert to SystemRDL.
+
+## Get free help!
+If you have questions about SystemRDL, check out the [GitHub discussions area](https://github.com/orgs/SystemRDL/discussions).
+Or for more casual discussions, find us on the [#PeakRDL:fossi-chat.org](https://matrix.to/#/#PeakRDL:fossi-chat.org) Matrix chat room hosted by the [FOSSi Foundation](https://fossi-foundation.org)
 
 [^1]: This SystemRDL GitHub group is not affiliated with Accellera.
